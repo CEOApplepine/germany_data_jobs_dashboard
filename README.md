@@ -2,6 +2,9 @@
 
 This project collects data-related job postings in Germany and visualizes them in an interactive dashboard using **Streamlit**. It uses the **Adzuna Jobs API** to fetch job listings with details like job title, company, location, salary, description, and apply links.
 
+https://germanydatajobsdashboard-nfemcixshxx4wcdra6sjnc.streamlit.app/
+
+
 ---
 
 ## **Features**
@@ -31,3 +34,4 @@ This project collects data-related job postings in Germany and visualizes them i
 ```bash
 git clone https://github.com/your-username/germany-data-jobs-dashboard.git
 cd germany-data-jobs-dashboard
+
